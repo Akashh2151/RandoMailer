@@ -1,0 +1,2 @@
+# RandoMailer
+ganarating random emails
