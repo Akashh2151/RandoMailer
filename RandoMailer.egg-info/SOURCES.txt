@@ -1,0 +1,5 @@
+setup.py
+RandoMailer.egg-info/PKG-INFO
+RandoMailer.egg-info/SOURCES.txt
+RandoMailer.egg-info/dependency_links.txt
+RandoMailer.egg-info/top_level.txt
