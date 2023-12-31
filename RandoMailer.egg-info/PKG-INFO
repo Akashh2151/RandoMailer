@@ -2,5 +2,32 @@ Metadata-Version: 2.1
 Name: RandoMailer
 Version: 0.1
 Summary: A package for generating random emails
+Home-page: https://github.com/Akashh2151/RandoMailer
 Author: Akash Desai
 Author-email: Akashh2151@gmail.com
+Project-URL: Source Code, https://github.com/Akashh2151/RandoMailer
+Project-URL: Bug Tracker, https://github.com/Akashh2151/RandoMailer/issues
+Keywords: random email generator testing development
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+
+RandoMailer is a Python package designed for creating random email addresses. It is a versatile tool suitable for various applications, from testing to data anonymization.
+
+Key Features:
+- Efficient and secure random email generation.
+- Lightweight and easy to integrate into Python projects.
+- Suitable for testing and data generation tasks.
+- Customizable options for email format.
+
+Installation:
+```bash
+pip install RandoMailer
+```
+
+Get started today and enhance your Python projects with RandoMailer!

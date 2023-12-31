@@ -27,7 +27,7 @@ setup(
         '\n\n'
         'Get started today and enhance your Python projects with RandoMailer!'
     ),
-    url='https://github.com/yourusername/RandoMailer',
+    url='https://github.com/Akashh2151/RandoMailer',
     project_urls={
         'Source Code': 'https://github.com/Akashh2151/RandoMailer',
         'Bug Tracker': 'https://github.com/Akashh2151/RandoMailer/issues',

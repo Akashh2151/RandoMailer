@@ -1,3 +1,4 @@
+README.md
 setup.py
 RandoMailer.egg-info/PKG-INFO
 RandoMailer.egg-info/SOURCES.txt
